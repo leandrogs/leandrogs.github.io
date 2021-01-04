@@ -27,6 +27,7 @@ url: "http://leandrogs.github.io" # the base hostname & protocol for your site, 
 linkedin_username: leandrogs99
 twitter_username: leandro_gs
 github_username:  leandrogs
+google_analytics: UA-186438666-1
 
 # Build settings
 theme: minima

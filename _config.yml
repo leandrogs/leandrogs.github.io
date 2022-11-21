@@ -30,9 +30,10 @@ github_username:  leandrogs
 google_analytics: G-4TD2E5BR38
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 header_pages:
   - about.markdown
 

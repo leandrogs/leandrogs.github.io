@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using Elixir Stream to download large amount of data from DB"
-date:   2023-03-21 11:00:00 +0000
+date:   2023-03-21 11:01:00 +0000
 categories: elixir development api database
 ---
 
